@@ -1,0 +1,17 @@
+C:\Users\hilok\Desktop\Vize+Final Hesaplama Ödevi\Vize+Final Hesaplama Ödevi\bin\Debug\net6.0-windows\Vize+Final Hesaplama Ödevi.exe
+C:\Users\hilok\Desktop\Vize+Final Hesaplama Ödevi\Vize+Final Hesaplama Ödevi\bin\Debug\net6.0-windows\Vize+Final Hesaplama Ödevi.deps.json
+C:\Users\hilok\Desktop\Vize+Final Hesaplama Ödevi\Vize+Final Hesaplama Ödevi\bin\Debug\net6.0-windows\Vize+Final Hesaplama Ödevi.runtimeconfig.json
+C:\Users\hilok\Desktop\Vize+Final Hesaplama Ödevi\Vize+Final Hesaplama Ödevi\bin\Debug\net6.0-windows\Vize+Final Hesaplama Ödevi.dll
+C:\Users\hilok\Desktop\Vize+Final Hesaplama Ödevi\Vize+Final Hesaplama Ödevi\bin\Debug\net6.0-windows\Vize+Final Hesaplama Ödevi.pdb
+C:\Users\hilok\Desktop\Vize+Final Hesaplama Ödevi\Vize+Final Hesaplama Ödevi\obj\Debug\net6.0-windows\Vize+Final Hesaplama Ödevi.csproj.AssemblyReference.cache
+C:\Users\hilok\Desktop\Vize+Final Hesaplama Ödevi\Vize+Final Hesaplama Ödevi\obj\Debug\net6.0-windows\Vize_Final_Hesaplama_Ödevi.Form1.resources
+C:\Users\hilok\Desktop\Vize+Final Hesaplama Ödevi\Vize+Final Hesaplama Ödevi\obj\Debug\net6.0-windows\Vize+Final Hesaplama Ödevi.csproj.GenerateResource.cache
+C:\Users\hilok\Desktop\Vize+Final Hesaplama Ödevi\Vize+Final Hesaplama Ödevi\obj\Debug\net6.0-windows\Vize+Final Hesaplama Ödevi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hilok\Desktop\Vize+Final Hesaplama Ödevi\Vize+Final Hesaplama Ödevi\obj\Debug\net6.0-windows\Vize+Final Hesaplama Ödevi.AssemblyInfoInputs.cache
+C:\Users\hilok\Desktop\Vize+Final Hesaplama Ödevi\Vize+Final Hesaplama Ödevi\obj\Debug\net6.0-windows\Vize+Final Hesaplama Ödevi.AssemblyInfo.cs
+C:\Users\hilok\Desktop\Vize+Final Hesaplama Ödevi\Vize+Final Hesaplama Ödevi\obj\Debug\net6.0-windows\Vize+Final Hesaplama Ödevi.csproj.CoreCompileInputs.cache
+C:\Users\hilok\Desktop\Vize+Final Hesaplama Ödevi\Vize+Final Hesaplama Ödevi\obj\Debug\net6.0-windows\Vize+Final Hesaplama Ödevi.dll
+C:\Users\hilok\Desktop\Vize+Final Hesaplama Ödevi\Vize+Final Hesaplama Ödevi\obj\Debug\net6.0-windows\refint\Vize+Final Hesaplama Ödevi.dll
+C:\Users\hilok\Desktop\Vize+Final Hesaplama Ödevi\Vize+Final Hesaplama Ödevi\obj\Debug\net6.0-windows\Vize+Final Hesaplama Ödevi.pdb
+C:\Users\hilok\Desktop\Vize+Final Hesaplama Ödevi\Vize+Final Hesaplama Ödevi\obj\Debug\net6.0-windows\Vize+Final Hesaplama Ödevi.genruntimeconfig.cache
+C:\Users\hilok\Desktop\Vize+Final Hesaplama Ödevi\Vize+Final Hesaplama Ödevi\obj\Debug\net6.0-windows\ref\Vize+Final Hesaplama Ödevi.dll
